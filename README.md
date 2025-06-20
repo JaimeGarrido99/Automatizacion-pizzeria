@@ -2,7 +2,7 @@
 # Proyecto de Automatización de una Pizzería 🍕
 
 ## Descripción
-Este proyecto realizadp en una asignatura de automatización consiste en la automatización del proceso de fabricación de pizzas. Hay 3 modos de operación: automático, manual y emergencia. El sistema controla la cinta transportadora, la amasadora, la dispensación de ingredientes y el horno, todo mediante un panel de control con pulsadores. Se realiza en lenguaje ST y LD.
+Este proyecto realizado en una asignatura de automatización consiste en la automatización del proceso de fabricación de pizzas. Hay 3 modos de operación: automático, manual y emergencia. El sistema controla la cinta transportadora, la amasadora, la dispensación de ingredientes y el horno, todo mediante un panel de control con pulsadores. Se realiza en lenguaje ST y LD.
 
 ![Pizzería](https://github.com/JaimeGarrido99/Automatizacion-pizzeria/blob/main/pizza.jpeg)
 
