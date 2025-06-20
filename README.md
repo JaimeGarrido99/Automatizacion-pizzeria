@@ -2,12 +2,14 @@
 # Proyecto de Automatización de una Pizzería 🍕
 
 ## Descripción
-Este proyecto consiste en la automatización del proceso de fabricación de pizzas en una pizzería. La solución permite a los usuarios elegir entre diferentes modos de operación: automático, manual y emergencia. El sistema controla la cinta transportadora 🚶, la amasadora, la dispensación de ingredientes y el horno, todo mediante un panel de control con pulsadores.
+Este proyecto realizadp en una asignatura de automatización consiste en la automatización del proceso de fabricación de pizzas. Hay 3 modos de operación: automático, manual y emergencia. El sistema controla la cinta transportadora, la amasadora, la dispensación de ingredientes y el horno, todo mediante un panel de control con pulsadores. Se realiza en lenguaje ST y LD.
+
+![Pizzería]("C:\Users\Jaime\Downloads\pizza.jpeg")
 
 ## Guía Rápida de Uso 📝
 
 ### Modo Automático 🤖
-1. **Inicio del proceso**: Al pulsar el botón “M”, se inicia la caída de la masa 🍞 y su posterior avance por la cinta.
+1. **Inicio del proceso**: Al pulsar el botón “M”, se inicia la caída de la masa y su posterior avance por la cinta.
 2. **Amasado**: La masa se aplasta con el amasador cuando llega al sensor correspondiente.
 3. **Selección de pizza 🍕**: Se pueden elegir entre cuatro tipos de pizza utilizando botones:
    - Pizza 1: Tomate y queso 🍅🧀
@@ -71,10 +73,6 @@ El sistema permite seleccionar diferentes tipos de pizza utilizando botones, act
 El sistema también gestiona el movimiento del carrito hacia la mesa seleccionada y su regreso al inicio, asegurando que la pizza se entregue correctamente.
 
 ## Requisitos 📋
-- **Plataforma**: Controlador PLC.
+- **Plataforma**: Codesys (PLC en la realidad).
 - **Software**: Programación en ST y LD.
 - **Hardware**: Sensores y actuadores conectados al PLC.
-
-## Licencia 📝
-Este proyecto está bajo la licencia MIT.
-
